@@ -10,5 +10,5 @@ to summarise, we briefly introduced the STRYDE technology to LP and the STRYDE t
 * Noise attenuation
 * Data interpolation
 
-Reference Github from zhongming: https://github.com/gazprom-neft/SeismicPro
+Reference Github: https://github.com/gazprom-neft/SeismicPro
  
