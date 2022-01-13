@@ -1,0 +1,15 @@
+name: stryde_env
+channels:
+  - defaults
+dependencies:
+  - python=3.8
+  - jupyter
+  - matplotlib
+  - pandas
+  - scipy
+  - postgresql
+  - sqlalchemy
+  - torchvision
+  - pytorch
+  - torchaudio
+prefix: /Users/matt/anaconda3/envs/stryde_env
