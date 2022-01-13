@@ -1,6 +1,6 @@
 ML Approaches / challenges
 
-to summarise, we briefly introduced the STRYDE technology to LP and the STRYDE team suggested few areas that could be useful to explore with ML tools, ideas listed below:
+to summarise, team suggested few areas that could be useful to explore with ML tools, ideas listed below:
 * Noise detection
 * Tilt detection
 * Quality of the sensor (bad sensor) using metadata to come up with a better pass/fail
